@@ -3,5 +3,5 @@ class Dog
     @dog = dog
   end
 
-  def 
+
 end
